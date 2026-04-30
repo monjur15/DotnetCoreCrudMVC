@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\appsettings.json",
               "ToolTip": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\appsettings.json",
               "RelativeToolTip": "DotnetCoreCrudMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-30T16:48:09.939Z",
               "EditorCaption": ""
@@ -81,8 +81,7 @@
               "RelativeToolTip": "DotnetCoreCrudMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T16:35:46.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T16:35:46.884Z"
             },
             {
               "$type": "Document",
@@ -94,8 +93,7 @@
               "RelativeToolTip": "DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T15:02:52.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T15:02:52.143Z"
             }
           ]
         }
