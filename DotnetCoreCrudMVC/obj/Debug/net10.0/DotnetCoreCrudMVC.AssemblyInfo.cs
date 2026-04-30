@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotnetCoreCrudMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63954695bd9a296a7e4342f038a5359cea7102c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02d64ff071bfddf7623883e93d61e963d527c8a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotnetCoreCrudMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotnetCoreCrudMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

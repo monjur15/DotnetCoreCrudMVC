@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\dotnetcorecrudmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\dotnetcorecrudmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Models\\Student.cs",
@@ -39,11 +35,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T16:28:45.299Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Controllers\\HomeController.cs",
@@ -57,28 +54,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T15:02:52.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DotnetCoreCrudMVC",
-              "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj",
-              "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj",
-              "ToolTip": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj",
-              "RelativeToolTip": "DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-30T15:02:09.705Z",
               "EditorCaption": ""
             }
           ]
