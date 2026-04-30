@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DotnetCoreCrudMVC.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace DotnetCoreCrudMVC.Data
 {
@@ -8,5 +9,7 @@ namespace DotnetCoreCrudMVC.Data
         {
                
         }
-    }
+
+        public DbSet<Student> Students { get; set; }
+        }
 }
