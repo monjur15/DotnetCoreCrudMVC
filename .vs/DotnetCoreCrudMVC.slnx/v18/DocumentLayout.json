@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Models\\Student.cs",
@@ -39,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Controllers\\HomeController.cs",
@@ -53,12 +61,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\appsettings.json",
+              "ToolTip": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\appsettings.json",
+              "RelativeToolTip": "DotnetCoreCrudMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T16:48:09.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Program.cs",
+              "ToolTip": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Program.cs",
+              "RelativeToolTip": "DotnetCoreCrudMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T16:35:46.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T15:02:52.143Z",
               "EditorCaption": ""
