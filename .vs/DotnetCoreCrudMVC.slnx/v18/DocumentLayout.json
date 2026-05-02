@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DotnetCoreCrudMVC\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -27,12 +31,12 @@
       "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|d:\\personal projects\\dotnet_projects\\dotnetcorecrudmvc\\dotnetcorecrudmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A931AF-B26C-EA19-09F5-116F0C93A76A}|DotnetCoreCrudMVC\\DotnetCoreCrudMVC.csproj|solutionrelative:dotnetcorecrudmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Controllers\\HomeController.cs",
@@ -68,11 +72,25 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T08:38:19.707Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DotnetCoreCrudMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T16:08:46.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Views\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Views\\Students\\Index.cshtml",
@@ -85,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Controllers\\StudentsController.cs",
@@ -93,12 +111,11 @@
               "RelativeToolTip": "DotnetCoreCrudMVC\\Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T15:35:07.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T15:35:07.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20260501162007_initial.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Migrations\\20260501162007_initial.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Migrations\\20260501162007_initial.cs",
@@ -106,12 +123,11 @@
               "RelativeToolTip": "DotnetCoreCrudMVC\\Migrations\\20260501162007_initial.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T16:20:08.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T16:20:08.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\appsettings.json",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\appsettings.json",
@@ -119,12 +135,11 @@
               "RelativeToolTip": "DotnetCoreCrudMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-30T16:48:09.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T16:48:09.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Program.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Program.cs",
@@ -136,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Data\\ApplicationDbContext.cs",
