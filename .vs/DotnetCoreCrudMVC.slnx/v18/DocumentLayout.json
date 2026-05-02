@@ -72,8 +72,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T08:38:19.707Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -83,7 +82,7 @@
               "RelativeDocumentMoniker": "DotnetCoreCrudMVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Personal Projects\\DotNet_Projects\\DotnetCoreCrudMVC\\DotnetCoreCrudMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DotnetCoreCrudMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-02T16:08:46.552Z",
               "EditorCaption": ""
@@ -98,8 +97,7 @@
               "RelativeToolTip": "DotnetCoreCrudMVC\\Views\\Students\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-02T15:39:35.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T15:39:35.072Z"
             },
             {
               "$type": "Document",
